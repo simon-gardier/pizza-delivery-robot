@@ -15,6 +15,8 @@
 
 The goal of the project is to explore an unknown maze with a Turtlebot3, find arucos (clients to deliver later) with the camero, localize them in the map referential and finally deliver these clients when receiving a notification on a topic. The project implements an occupancy grid exploration algorithms and a delivery scheduling algorithm. Best next target (greedy approach) is decided with A*.
 
+See [report.pdf](report.pdf) for more details.
+
 Project undertaken as part of the INFO0948 course given by Pr. Sacré at ULiège.
 Final grade : 17/20.
 Note : No copying (even partial) of this code within the scope of the INFO0948 course will be tolerated.
@@ -69,3 +71,9 @@ See `commands.md` for the commands to be used in the project and other helpfull 
   - Tutorial 4 (Turtlebot + Navigation + Aruco): https://gitlab.uliege.be/info0948-2/info0948-introduction-to-intelligent-robotics/-/blob/main/tutorials/tutorial-4.md
   - FollowPath algorithm used in the project: https://docs.ros.org/en/iron/p/nav2_mppi_controller/
   - Intelligent frontier discovery : https://github.com/SeanReg/nav2_wavefront_frontier_exploration/blob/main/nav2_wfd/wavefront_frontier.py
+
+# Credits
+[Simon Gardier](github.com/simon-gardier) (Co-author)
+Arthur Graillet (Co-author)
+Bruce Andriamampianina (Co-author)
+
