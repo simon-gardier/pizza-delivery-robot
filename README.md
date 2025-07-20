@@ -11,6 +11,8 @@
                                                                     | %%o%(_)%%%%%o%(_)%%%o%%o%o%% |
 ```
 
+https://github.com/user-attachments/assets/73a90d16-e35b-4787-9543-a0d41f7cd646
+
 # Quick presentation
 
 The goal of the project is to explore an unknown maze with a Turtlebot3, find arucos (clients to deliver later) with the camero, localize them in the map referential and finally deliver these clients when receiving a notification on a topic. The project implements an occupancy grid exploration algorithms and a delivery scheduling algorithm. Best next target (greedy approach) is decided with A*.
