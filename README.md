@@ -75,7 +75,7 @@ See `commands.md` for the commands to be used in the project and other helpfull 
   - Intelligent frontier discovery : https://github.com/SeanReg/nav2_wavefront_frontier_exploration/blob/main/nav2_wfd/wavefront_frontier.py
 
 # Credits
-[Simon Gardier](github.com/simon-gardier) (Co-author)
-Arthur Graillet (Co-author)
-Bruce Andriamampianina (Co-author)
+- [Simon Gardier](github.com/simon-gardier) (Co-author)
+- Arthur Graillet (Co-author)
+- Bruce Andriamampianina (Co-author)
 
